@@ -1,0 +1,23 @@
+﻿生成启动时间为 2016/3/15 23:30:29。
+     1>项目“G:\桌面\学习\大三上\software engineering\VolumeRendering_vs2010_src\VolumeRendering_cp1\VolumeRendering_cp1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\vs2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\VolumeRendering_cp1.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt VolumeRenderingDlg.cpp
+         VolumeRenderingDlg.cpp
+     1>VolumeRenderingDlg.cpp(124): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+     1>VolumeRenderingDlg.cpp(216): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+       Link:
+         F:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\桌面\学习\大三上\software engineering\VolumeRendering_vs2010_src\Release\VolumeRendering_cp1.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:F:\vs2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"G:\桌面\学习\大三上\software engineering\VolumeRendering_vs2010_src\Release\VolumeRendering_cp1.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\桌面\学习\大三上\software engineering\VolumeRendering_vs2010_src\Release\VolumeRendering_cp1.lib" /MACHINE:X86 /SAFESEH Release\VolumeRendering_cp1.res
+         Release\RawDataProcessor.obj
+         Release\RendererHelper.obj
+         Release\stdafx.obj
+         Release\TranformationMgr.obj
+         Release\VolumeRenderingDlg.obj
+         Release\VolumeRendering_cp1.obj
+         正在生成代码
+         已完成代码的生成
+         VolumeRendering_cp1.vcxproj -> G:\桌面\学习\大三上\software engineering\VolumeRendering_vs2010_src\Release\VolumeRendering_cp1.exe
+     1>已完成生成项目“G:\桌面\学习\大三上\software engineering\VolumeRendering_vs2010_src\VolumeRendering_cp1\VolumeRendering_cp1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.90

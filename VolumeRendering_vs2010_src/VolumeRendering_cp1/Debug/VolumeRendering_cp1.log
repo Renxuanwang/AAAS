@@ -1,0 +1,34 @@
+﻿生成启动时间为 2015/12/18 20:22:33。
+     1>项目“G:\桌面\学习\大三上\software engineering\VolumeRendering_vs2010_src\VolumeRendering_cp1\VolumeRendering_cp1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\VolumeRendering_cp1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt RawDataProcessor.cpp RendererHelper.cpp VolumeRenderingDlg.cpp
+         VolumeRenderingDlg.cpp
+     1>g:\桌面\学习\大三上\software engineering\volumerendering_vs2010_src\volumerendering_cp1\volumerenderingdlg.cpp(194): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+         RawDataProcessor.cpp
+     1>g:\桌面\学习\大三上\software engineering\volumerendering_vs2010_src\volumerendering_cp1\rawdataprocessor.cpp(41): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>g:\桌面\学习\大三上\software engineering\volumerendering_vs2010_src\volumerendering_cp1\rawdataprocessor.cpp(43): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>g:\桌面\学习\大三上\software engineering\volumerendering_vs2010_src\volumerendering_cp1\rawdataprocessor.cpp(50): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+     1>g:\桌面\学习\大三上\software engineering\volumerendering_vs2010_src\volumerendering_cp1\rawdataprocessor.cpp(56): warning C4244: “参数”: 从“__int64”转换到“UINT”，可能丢失数据
+     1>g:\桌面\学习\大三上\software engineering\volumerendering_vs2010_src\volumerendering_cp1\rawdataprocessor.cpp(75): warning C4309: “=”: 截断常量值
+     1>g:\桌面\学习\大三上\software engineering\volumerendering_vs2010_src\volumerendering_cp1\rawdataprocessor.cpp(76): warning C4309: “=”: 截断常量值
+     1>g:\桌面\学习\大三上\software engineering\volumerendering_vs2010_src\volumerendering_cp1\rawdataprocessor.cpp(80): warning C4309: “=”: 截断常量值
+     1>g:\桌面\学习\大三上\software engineering\volumerendering_vs2010_src\volumerendering_cp1\rawdataprocessor.cpp(83): warning C4309: “=”: 截断常量值
+     1>g:\桌面\学习\大三上\software engineering\volumerendering_vs2010_src\volumerendering_cp1\rawdataprocessor.cpp(88): warning C4309: “=”: 截断常量值
+     1>g:\桌面\学习\大三上\software engineering\volumerendering_vs2010_src\volumerendering_cp1\rawdataprocessor.cpp(89): warning C4309: “=”: 截断常量值
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         RendererHelper.cpp
+       Link:
+         F:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\桌面\学习\大三上\software engineering\VolumeRendering_vs2010_src\Debug\VolumeRendering_cp1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:F:\vs2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"G:\桌面\学习\大三上\software engineering\VolumeRendering_vs2010_src\Debug\VolumeRendering_cp1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\桌面\学习\大三上\software engineering\VolumeRendering_vs2010_src\Debug\VolumeRendering_cp1.lib" /MACHINE:X86 Debug\VolumeRendering_cp1.res
+         Debug\RawDataProcessor.obj
+         Debug\RendererHelper.obj
+         Debug\stdafx.obj
+         Debug\TranformationMgr.obj
+         Debug\VolumeRenderingDlg.obj
+         Debug\VolumeRendering_cp1.obj
+         VolumeRendering_cp1.vcxproj -> G:\桌面\学习\大三上\software engineering\VolumeRendering_vs2010_src\Debug\VolumeRendering_cp1.exe
+     1>已完成生成项目“G:\桌面\学习\大三上\software engineering\VolumeRendering_vs2010_src\VolumeRendering_cp1\VolumeRendering_cp1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.74
